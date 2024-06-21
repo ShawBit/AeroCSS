@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AeroCSS
 
-## Getting Started
+AeroCSS is a project dedicated to learning and mastering CSS through the use of the Tailwind CSS framework. Whether you're a beginner in CSS or a front-end developer looking to enhance your skills, AeroCSS is your ideal companion.
 
-First, run the development server:
+Project Features:
+Structured Learning: Follow step-by-step tutorials and examples that progressively deepen your understanding of core CSS concepts and practical techniques.
+Practical Focus: Utilize Tailwind CSS for fast, practical front-end development, helping you efficiently master CSS knowledge.
+Interactive Learning: Explore rich code examples and live demonstrations, allowing you to see the effects instantly and make adjustments on the fly.
+Community Support: Join the AeroCSS community to exchange experiences, share tips, and progress together with other learners.
+Continuous Updates: Benefit from regularly added content and examples, staying up-to-date with the latest trends in front-end technology.
+Who Is It For:
+Beginners: Start from scratch and systematically learn CSS, building a strong foundation in front-end development.
+Intermediate Learners: Improve your CSS skills through hands-on practice and projects, mastering more advanced techniques.
+Enthusiasts: Explore and experiment with the possibilities of CSS, taking your front-end development skills to the next level.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Join AeroCSS and make your journey to learning CSS as smooth as a breeze!
