@@ -8,6 +8,11 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+@font-face {
+  font-family: 'MonaspaceRadon-SemiBold';
+  src: url('/fonts/MonaspaceRadon-SemiBold.otf');
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -17,13 +22,9 @@
 }
 
 body {
+  font-family: 'MonaspaceRadon-SemiBold';
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
 }
 
 @layer utilities {
