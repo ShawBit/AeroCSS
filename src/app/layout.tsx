@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
+  icons: '/images/logo.jpg',
   title: 'AeroCSS',
   description: 'Learning CSS as smooth as a breeze!',
 };
@@ -13,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="min-h-screen bg-gray-100">{children}</body>
     </html>
   );
 }
